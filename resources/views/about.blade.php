@@ -3,10 +3,10 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Welcome</title>
+        <title>About</title>
     </head>
 
     <body>
-        <h1>Welcome</h1>
+        <h1>About us</h1>
     </body>
 </html>
