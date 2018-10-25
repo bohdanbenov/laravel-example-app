@@ -7,6 +7,7 @@ use function MongoDB\BSON\toJSON;
 
 class SessionsController extends Controller
 {
+
     public function __construct()
     {
         $this->middleware('guest', ['except' => 'destroy']);
